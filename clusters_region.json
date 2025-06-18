@@ -1,0 +1,214 @@
+[
+  {
+    "clusterNumber": 1,
+    "label": "Ít",
+    "points": [
+      {
+        "area": "Ba Đình",
+        "population": 226315,
+        "trafficDensity": 7000,
+        "peakHours": "Morning",
+        "latitude": 21.03587,
+        "longitude": 105.82163
+      },
+      {
+        "area": "Hoàn Kiếm",
+        "population": 141687,
+        "trafficDensity": 8000,
+        "peakHours": "Morning",
+        "latitude": 21.030927326947985,
+        "longitude": 105.85465786150633
+      },
+      {
+        "area": "Tây Hồ",
+        "population": 167851,
+        "trafficDensity": 5500,
+        "peakHours": "Morning",
+        "latitude": 21.080678869336605,
+        "longitude": 105.81122029060487
+      },
+      {
+        "area": "Đan Phượng",
+        "population": 185653,
+        "trafficDensity": 3000,
+        "peakHours": "Afternoon",
+        "latitude": 21.089840402851653,
+        "longitude": 105.66949350166723
+      },
+      {
+        "area": "Hoài Đức",
+        "population": 257633,
+        "trafficDensity": 4500,
+        "peakHours": "Afternoon",
+        "latitude": 21.029106281153176,
+        "longitude": 105.69974648698528
+      },
+      {
+        "area": "Mê Linh",
+        "population": 241633,
+        "trafficDensity": 4000,
+        "peakHours": "Morning",
+        "latitude": 21.17807839990104,
+        "longitude": 105.70868183777569
+      },
+      {
+        "area": "Phú Xuyên",
+        "population": 229847,
+        "trafficDensity": 5000,
+        "peakHours": "Morning",
+        "latitude": 20.716321499166266,
+        "longitude": 105.89834064734896
+      },
+      {
+        "area": "Phúc Thọ",
+        "population": 194754,
+        "trafficDensity": 6000,
+        "peakHours": "Evening",
+        "latitude": 21.086563487230553,
+        "longitude": 105.62573712483675
+      },
+      {
+        "area": "Quốc Oai",
+        "population": 203079,
+        "trafficDensity": 4000,
+        "peakHours": "Afternoon",
+        "latitude": 20.999350670361466,
+        "longitude": 105.63612548771746
+      },
+      {
+        "area": "Thạch Thất",
+        "population": 223844,
+        "trafficDensity": 5000,
+        "peakHours": "Afternoon",
+        "latitude": 21.015924474175762,
+        "longitude": 105.52337155155129
+      },
+      {
+        "area": "Thanh Oai",
+        "population": 227541,
+        "trafficDensity": 4000,
+        "peakHours": "Morning",
+        "latitude": 20.865962034934636,
+        "longitude": 105.78226646826553
+      },
+      {
+        "area": "Thường Tín",
+        "population": 262222,
+        "trafficDensity": 4500,
+        "peakHours": "Morning",
+        "latitude": 20.871022330773137,
+        "longitude": 105.86195106297885
+      }
+    ]
+  },
+  {
+    "clusterNumber": 2,
+    "label": "Nhiều",
+    "points": [
+      {
+        "area": "Cầu Giấy",
+        "population": 294235,
+        "trafficDensity": 7500,
+        "peakHours": "Morning",
+        "latitude": 21.034481105889583,
+        "longitude": 105.79232545388217
+      },
+      {
+        "area": "Hai Bà Trưng",
+        "population": 304101,
+        "trafficDensity": 7000,
+        "peakHours": "Morning",
+        "latitude": 21.008483307182715,
+        "longitude": 105.85705942473847
+      },
+      {
+        "area": "Hoàng Mai",
+        "population": 540732,
+        "trafficDensity": 9000,
+        "peakHours": "Afternoon",
+        "latitude": 20.97821822457275,
+        "longitude": 105.8549853573415
+      },
+      {
+        "area": "Đống Đa",
+        "population": 376709,
+        "trafficDensity": 6000,
+        "peakHours": "Afternoon",
+        "latitude": 21.0181463164228,
+        "longitude": 105.82826209193549
+      },
+      {
+        "area": "Thanh Xuân",
+        "population": 293292,
+        "trafficDensity": 7000,
+        "peakHours": "Morning",
+        "latitude": 20.99703003772091,
+        "longitude": 105.81550015646395
+      },
+      {
+        "area": "Bắc Từ Liêm",
+        "population": 354364,
+        "trafficDensity": 6000,
+        "peakHours": "Afternoon",
+        "latitude": 21.068366901811856,
+        "longitude": 105.76541400721648
+      },
+      {
+        "area": "Hà Đông",
+        "population": 382637,
+        "trafficDensity": 6500,
+        "peakHours": "Evening",
+        "latitude": 20.957543767951123,
+        "longitude": 105.7632956156826
+      },
+      {
+        "area": "Long Biên",
+        "population": 337982,
+        "trafficDensity": 5500,
+        "peakHours": "Morning",
+        "latitude": 21.043078555666053,
+        "longitude": 105.90179890730909
+      },
+      {
+        "area": "Nam Từ Liêm",
+        "population": 282444,
+        "trafficDensity": 5700,
+        "peakHours": "Afternoon",
+        "latitude": 21.011561229421837,
+        "longitude": 105.76262931893416
+      },
+      {
+        "area": "Chương Mỹ",
+        "population": 347564,
+        "trafficDensity": 4500,
+        "peakHours": "Afternoon",
+        "latitude": 20.920490277844646,
+        "longitude": 105.7039403351986
+      },
+      {
+        "area": "Đông Anh",
+        "population": 437308,
+        "trafficDensity": 5000,
+        "peakHours": "Morning",
+        "latitude": 21.145267470593005,
+        "longitude": 105.8443310237667
+      },
+      {
+        "area": "Gia Lâm",
+        "population": 292943,
+        "trafficDensity": 4800,
+        "peakHours": "Morning",
+        "latitude": 21.026681100988608,
+        "longitude": 105.96217748024849
+      },
+      {
+        "area": "Thanh Trì",
+        "population": 288839,
+        "trafficDensity": 5700,
+        "peakHours": "Afternoon",
+        "latitude": 20.935682614424767,
+        "longitude": 105.83963371892257
+      }
+    ]
+  }
+]
